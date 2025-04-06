@@ -44,8 +44,6 @@ gesture-subway/
 ├── app.py                # Streamlit web app entry point
 ├── gesture_utils.py      # Logic for detecting hand gestures
 ├── requirements.txt      # Python packages
-├── assets/
-│   └── logo.png          # App branding logo
 ├── README.md             # Project documentation
 ```
 
@@ -55,7 +53,7 @@ gesture-subway/
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/your-username/gesture-subway.git
+git clone https://github.com/Harsh456B/gesture-subway.git
 cd gesture-subway
 ```
 
@@ -173,6 +171,6 @@ MIT License – Free to use and modify
 ## ✨ Join the Gesture Revolution
 ```bash
 Control browser games with just your hand and webcam
-Made with ❤️ by [Your Name] — https://github.com/your-username
+Made with ❤️ by Harsh Bhogal — https://github.com/Harsh456B
 ```
 
